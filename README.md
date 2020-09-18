@@ -5,10 +5,12 @@
 - C#
 - HTML5
 - CSS
+- JS
 
 ## I am learning:
-- Machine Learning
-- Javascript
+- Game Design With Unity
+- Data Visualsation
+- More Javascript
 - More C#
 
 :)
